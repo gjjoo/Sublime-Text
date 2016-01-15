@@ -5,7 +5,6 @@
 - [(Mac) sublime - shortcuts](Resources/(Mac) sublime - shortcuts.md)
 - [(Window) sublime - shortcuts](Resources/(Window) sublime - shortcuts.md)
 - [Snippet 사용법 및 설정 방법](Resources/Snippet 사용법 및 설정 방법.md)
-- [Snippet 사용자 정의](Resources/Snippet 사용자 정의.md)
 - [Plugin List](Resources/Plugin List.md)
 - [ColorHighlighter - settings](Resources/ColorHighlighter - settings.md)
 - [AlignTab - context menu user (사용자 정의)](Resources/AlignTab - context menu user (사용자 정의).md)
