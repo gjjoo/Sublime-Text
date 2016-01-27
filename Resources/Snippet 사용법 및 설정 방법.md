@@ -1,7 +1,6 @@
 # Snippet 사용법 및 설정 방법
 
-`Tools > New Snippet...` 실행 한 후 아래와 같이 작성하여 저장
-
+`Tools > New Snippet...` 실행 한 후 아래와 같이 작성
 ```xml
 <snippet>
   <content><![CDATA[
@@ -22,4 +21,4 @@ Hello ${1:World!}
   - `Remove default Sublime Text 3 snippets` 문서 참고
 - Sass(SCSS)
   - `Syntax Highlighting for Sass` 패키지에서도 지원을 하지만 색상 및 문법 모드만 사용할 목적이므로 해당 패키지의 스니펫은 삭제한다.
-  - Emmet을 Sass(SCSS)에서도 완벽하게 지원하기 위해서는 `Emmet의 Settings User > "css_completions_scope"` 속성을 참고바람. 
+  - Emmet을 Sass(SCSS)에서도 완벽하게 지원하기 위해서는 `Emmet의 Settings User > "css_completions_scope"` 속성을 참고바람.
